@@ -1,0 +1,9 @@
+build/
+.gradle/
+.idea/
+*.hprof
+hs_err_pid*.log
+local.properties
+*.jks
+*.apk
+.DS_Store
